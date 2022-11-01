@@ -4,9 +4,12 @@
 - 💞️ I’m looking to collaborate on data science research project
 - 📫 How to reach me ?
 
+ <meta name="viewport" content = "width=device-width, initial-scale=1" />
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
  <center>
         <h3>Social Media Links</h3>
-        <a href="#" class="fa fa-linkedin"></a>
+        <a href="#" class="fa fa-linkedin">L</a>
         <a href="#" class="fa fa-pinterest"></a>
         <a href="#" class="fa fa-reddit"></a>
  </center>
